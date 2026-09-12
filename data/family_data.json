@@ -1,0 +1,56 @@
+{
+    "medications": [
+        {
+            "Name": "Aspirin",
+            "Dosage": "100mg",
+            "Frequency": "Once daily",
+            "last_refill": "2026-08-26",
+            "Pharmacy": "CVS Pharmacy",
+            "Days_Supply": 30,
+            "Quantity": 45
+        },
+        {
+            "Name": "Metformin",
+            "Dosage": "500mg",
+            "Frequency": "Twice daily",
+            "last_refill": "2026-05-03",
+            "Pharmacy": "Walgreens",
+            "Days_Supply": 60,
+            "Quantity": 50
+        },
+        {
+            "Name": "Paracetamol",
+            "Dosage": "650mg",
+            "Frequency": "Once in two days",
+            "last_refill": "2026-08-30",
+            "Pharmacy": "Rite Aid",
+            "Days_Supply": 15,
+            "Quantity": 10
+        }
+    ],
+    "appointments": [
+        {
+            "Doctor": "Dr. Smith",
+            "Specialty": "Cardiologist",
+            "Date": "2026-09-15",
+            "Time": "10:00 AM",
+            "Location": "Heart Care Clinic"
+        },
+        {
+            "Doctor": "Dr. Johnson",
+            "Specialty": "Endocrinologist",
+            "Date": "2026-09-30",
+            "Time": "2:30 PM",
+            "Location": "Diabetes Center"
+        },
+         {
+
+            "Doctor": "Dr. Peter",
+            "Specialty": "Gynocologist",
+            "Date": "2026-09-14",
+            "Time": "12:30 PM",
+            "Location": "Womens Care Clinic"
+        }
+        
+    ]
+}
