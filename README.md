@@ -128,3 +128,7 @@ This runs the AI reasoning without the web interface.
 
 - [Strands Agents SDK](https://strandsagents.com)
 - Python 3.11
+
+
+
+YJ6DBC   #offcampuscode
